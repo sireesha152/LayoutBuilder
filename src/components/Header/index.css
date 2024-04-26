@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #cbd5e1;
+  text-align: center;
+  height: 40%;
+  width: 80%;
+}
+.heading {
+  color: #64748b;
+  font-weight: bold;
+}

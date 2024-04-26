@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #475569;
+  padding: 10px;
+  width: 100vw;
+  height: 30%;
+  padding-left: 30px;
+}
+.heading {
+  font-weight: bold;
+  font-size: 18px;
+  color: #ffffff;
+}
+.list {
+  list-style-type: none;
+}
